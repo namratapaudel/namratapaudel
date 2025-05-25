@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @namratapaudel
-- 👀 I’m interested in paintig.
-- 🌱 I’m currently learning IT
+- 🌱 I’m currently studying IT
 
 <!---
 namratapaudel/namratapaudel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
